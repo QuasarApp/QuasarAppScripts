@@ -1,2 +1,2 @@
 # QuasarAppScripts
-work scripts for QuasarApp projects
+Work scripts for QuasarApp projects
